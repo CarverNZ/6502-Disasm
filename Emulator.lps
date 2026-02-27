@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Emulator.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="266"/>
+      </Unit>
+      <Unit>
+        <Filename Value="mainform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainForm"/>
+        <TopLine Value="63"/>
+        <CursorPos X="142" Y="70"/>
+        <UsageCount Value="266"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="mos_6502.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MOS_6502"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="148"/>
+        <CursorPos X="123" Y="1155"/>
+        <UsageCount Value="266"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\tools\lazarus\lcl\grids.pas"/>
+        <UnitName Value="Grids"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="10116"/>
+        <CursorPos Y="10133"/>
+        <UsageCount Value="133"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="567" TopLine="548"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="1086" TopLine="1072"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="1112" TopLine="1088"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="1101" TopLine="1088"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="1118" Column="19" TopLine="1088"/>
+      </Position>
+      <Position>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="59" Column="58" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="60" Column="58" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="59" Column="58" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="42" Column="19" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="1100" Column="19" TopLine="1090"/>
+      </Position>
+      <Position>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="9" Column="36"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="1100" Column="19" TopLine="1092"/>
+      </Position>
+      <Position>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="80" Column="39" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="1149" Column="79" TopLine="1132"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="1150" Column="42" TopLine="1122"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="1151" Column="58" TopLine="1133"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="1160" Column="30" TopLine="1133"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="62" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="71" Column="65" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="646" Column="12" TopLine="630"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="1159" Column="30" TopLine="1124"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="1157" TopLine="1141"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="1158" Column="71" TopLine="1141"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="1147" Column="36" TopLine="1141"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="1003" TopLine="983"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="559" Column="16" TopLine="541"/>
+      </Position>
+      <Position>
+        <Filename Value="mos_6502.pas"/>
+        <Caret Line="1166" Column="31" TopLine="1141"/>
+      </Position>
+      <Position>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="74" Column="35" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="79" Column="38" TopLine="53"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
